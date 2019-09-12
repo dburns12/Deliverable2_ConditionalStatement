@@ -37,7 +37,7 @@ namespace Deliverable2_ConditionalStatement
                 // Create a space
                 Console.Write("\n");
 
-                // If statement to test of where the grade input falls
+                // If statement to test where the grade input falls
                 if ((98 <= grade) && (grade <= 100))
                 {
                     Console.WriteLine("A+");
